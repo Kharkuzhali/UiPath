@@ -693,7 +693,7 @@
                 </ui:Target>
               </p:CvTypeIntoWithDescriptor.Target>
             </p:CvTypeIntoWithDescriptor>
-            <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="400,61" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Commit" />
+            <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="400,61" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Commit and push" />
           </Sequence>
         </ActivityAction>
       </p:CVScope.Body>
